@@ -39,6 +39,7 @@
         android:layout_below="@+id/button_tv"
         android:layout_marginTop="33dp"
         android:background="@android:color/white"
+        android:onClick="onClick"
         android:text="Movies" />
 
     <Button
@@ -49,6 +50,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="33dp"
         android:background="@android:color/white"
+        android:onClick="onClick"
         android:text="Both" />
 
 
